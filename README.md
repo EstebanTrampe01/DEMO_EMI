@@ -227,10 +227,3 @@ El frontend estará disponible en: `http://localhost:3000`
 ### Problemas con pnpm
 - Limpia el cache: `pnpm store prune`
 - Elimina `node_modules` y reinstala: `rm -rf node_modules && pnpm install`
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-**Nota:** La licencia MIT permite el uso, modificación y distribución del código de forma gratuita, siempre que se incluya el aviso de copyright y la declaración de permisos.
-
