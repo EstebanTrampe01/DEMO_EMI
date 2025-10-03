@@ -228,10 +228,6 @@ El frontend estará disponible en: `http://localhost:3000`
 - Limpia el cache: `pnpm store prune`
 - Elimina `node_modules` y reinstala: `rm -rf node_modules && pnpm install`
 
-## Colaboradores
-
-Este proyecto fue posible gracias a [@Fatima-Cerezo](https://github.com/Fatima-Cerezo) y [@jorgemejia25](https://github.com/jorgemejia25) que ayudaron en la creación de la base de datos y inicialización del backend.
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
