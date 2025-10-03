@@ -227,3 +227,7 @@ El frontend estará disponible en: `http://localhost:3000`
 ### Problemas con pnpm
 - Limpia el cache: `pnpm store prune`
 - Elimina `node_modules` y reinstala: `rm -rf node_modules && pnpm install`
+
+## Lincecias
+
+MIT
